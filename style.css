@@ -1,0 +1,103 @@
+body{
+    text-align:center ;
+    background-color: pink;
+    
+}
+div{
+     height: 500px;
+    width: 500px;
+    display:flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border: 4px solid rgb(167, 44, 44);
+    background-color: yellow;
+    border-radius: 8px;
+    
+  
+  
+  
+   
+}
+
+
+
+#container{
+    width: 800px;
+    height: 500px;
+      display: inline-block;
+    text-align: justify;
+    justify-content: center;
+    border: 4px solid rgb(178, 20, 20);
+    background-color: yellow;
+    border-radius: 8px;
+    
+    top:900px
+    display: flex;
+   
+    
+
+}
+h1{
+    color: red;
+    text-align:center ;
+}
+
+h3{
+     color: rgb(37, 1, 1);
+    text-align:center ;
+}
+
+#box1{
+    
+
+    height: 120px;
+    width: 120px;
+   
+    border: 2px solid black;
+    display: flex;
+    text-align: center;
+    justify-content:center ;
+    align-items: center;
+    right: 700px;
+    left: 1000px;
+    top: 150px;
+
+    color: rgb(13, 17, 4);
+    background-color: rgb(211, 216, 211);
+
+
+  
+    position: fixed;
+
+
+}
+#box2{
+ height: 50px;
+    width: 200px;
+   
+    border: 2px  black;
+    display: flex;
+    text-align: center;
+    justify-content:center ;
+    align-items: center;
+    right: 700px;
+    left: 950px;
+    top: 280px;
+
+    color: rgb(13, 17, 4);
+    background-color: rgb(211, 216, 211);
+
+  
+    position: fixed;
+
+}
+
+
+
+.photo{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
